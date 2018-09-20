@@ -1,0 +1,30 @@
+html, body{
+	height: 100%;
+}
+
+body{
+	background: url("../images/bg.jpg") no-repeat top center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.App{
+	min-height: 100%;
+	background: rgba(0,0,0,0.55);
+}
+
+.filters .lm-stars-rating label:after{
+	font-size: 30px;
+}
+
+.filters .lm-star{
+	min-width: 30px;
+}
+
+.header{
+	background: rgba(255,255,255,0.7);
+}
+
+.block{
+	background: rgba(255,255,255,0.7);
+}
