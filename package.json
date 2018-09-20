@@ -2,7 +2,7 @@
   "name": "hotels-search-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kofeman.github.io/hotels-search-test",
+  "homepage": "https://kofeman.github.io/hotels-search-test",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.3",

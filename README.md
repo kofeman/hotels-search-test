@@ -1,4 +1,4 @@
-Demo: http://kofeman.github.io/hotels-search-test
+Demo: https://kofeman.github.io/hotels-search-test
 
 Technologies used:
 

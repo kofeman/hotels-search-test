@@ -36,7 +36,7 @@ class DataStore extends React.Component {
 		
 		// fetch json and change state
 		
-		axios.get('http://kofeman.github.io/hotels-search-test/data.json')
+		axios.get('https://kofeman.github.io/hotels-search-test/data.json')
 			.then(response => {
 				setTimeout(() => {
 					console.log(response.data.hotels);

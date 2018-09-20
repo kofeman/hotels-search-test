@@ -26,9 +26,6 @@ class App extends Component {
 						<div className="container">
 							<div className="row">
 								<div className="col-md-4 col-xs-12 h-25">
-									
-									// passing state down into components
-									
 									<DataContext.Consumer>
 										{({ onFilterRating, onFilterPool, onSearch, rate }) => (
 											<div className="filters-wrapper w-100">
@@ -45,9 +42,6 @@ class App extends Component {
 								</div>
 								
 								<div className="col-md-8 col-xs-12">
-									
-									// passing state down into components
-									
 									<DataContext.Consumer>
 										{({ filteredData, isLoading }) => (
 											<SearchResults
